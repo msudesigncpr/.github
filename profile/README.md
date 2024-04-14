@@ -1,12 +1,12 @@
 # Colony Picking Robot
 > Code and documentation for the 2024 Colony-Picking Robot MSU Design Project
 >
-> Sponsored by [Seth Walk](walk_profile)
+> Sponsored by [Seth Walk][walk_profile]
 >
 > Created to sample bacterial colonies for [The Walk Lab](https://thewalklab.com/)
 >
-> Created under the advisory of [Dr. Kevin Repasky](repasky_profile) and
-> [Dr. Ron June](june_profile)
+> Created under the advisory of [Dr. Kevin Repasky][repasky_profile] and
+> [Dr. Ron June][june_profile]
 >
 > Created by Brian Batliner, William Culhane, Sarah Dolan, James Ekren and John
 > Fike
