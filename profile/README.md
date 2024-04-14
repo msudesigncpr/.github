@@ -37,3 +37,9 @@
 > Relevant datasheets
 
 - [Repository](https://github.com/msudesigncpr/datasheets)
+
+## Slated for obliteration
+[old cv](https://github.com/msudesigncpr/computer_vision)
+[old gui](https://github.com/msudesigncpr/GUI)
+[old proc ctrl](https://github.com/msudesigncpr/control_software)
+[motor test](https://github.com/msudesigncpr/motor_control_test)
