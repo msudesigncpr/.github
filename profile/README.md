@@ -1,13 +1,19 @@
 # Colony Picking Robot
 > Code and documentation for the 2024 Colony-Picking Robot MSU Design Project
 >
-> Sponsored by [Seth Walk](https://www.montana.edu/mbi/directory/1524711/seth-walk)
+> Sponsored by [Seth Walk](walk_profile)
 >
 > Created to sample bacterial colonies for [The Walk Lab](https://thewalklab.com/)
 >
-> Created under the advisory of [Dr. Kevin Repasky](https://ece.montana.edu/directory/faculty/1524511/kevin-repasky) and [Dr. Ron June](https://www.montana.edu/mie/directory/1524232/ronald-june)
+> Created under the advisory of [Dr. Kevin Repasky](repasky_profile) and
+> [Dr. Ron June](june_profile)
 >
-> Created by Brian Batliner, William Culhane, Sarah Dolan, James Ekren, and John Fike
+> Created by Brian Batliner, William Culhane, Sarah Dolan, James Ekren and John
+> Fike
+
+[walk_profile]: https://www.montana.edu/mbi/directory/1524711/seth-walk
+[repasky_profile]: https://ece.montana.edu/directory/faculty/1524511/kevin-repasky
+[june_profile]: https://www.montana.edu/mie/directory/1524232/ronald-june
 
 ## Overview
 ### Slate UI
@@ -19,7 +25,7 @@
 > Image processing to determine colony locations
 
 - [Repository](https://github.com/msudesigncpr/libcolonyfind)
-- [Docs](https://github.com/msudesigncpr/libcolonyfind)
+- [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html)
 
 ### libmotorcontrol
 > Methods to interface with the CMMO-ST drive controllers
