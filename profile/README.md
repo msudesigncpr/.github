@@ -8,8 +8,7 @@
 > Created under the advisory of [Dr. Kevin Repasky][repasky_profile] and
 > [Dr. Ron June][june_profile]
 >
-> Created by Brian Batliner, William Culhane, Sarah Dolan, James Ekren and John
-> Fike
+> Created by Brian Batliner, [William Culhane](https://github.com/orgs/msudesigncpr/people/w-culhane), [Sarah Dolan](https://github.com/orgs/msudesigncpr/people/SarahDolan), James Ekren and [John Fike](https://github.com/orgs/msudesigncpr/people/john-fike)
 
 [walk_profile]: https://www.montana.edu/mbi/directory/1524711/seth-walk
 [repasky_profile]: https://ece.montana.edu/directory/faculty/1524511/kevin-repasky
@@ -19,27 +18,31 @@
 ### Slate UI
 > GUI application and process control
 
-- [Repository](https://github.com/msudesigncpr/slate-ui)
+| [Repository](https://github.com/msudesigncpr/slate-ui) |
+| ------------------------------------------------------ |
 
 ### libcolonyfind
 > Image processing to determine colony locations
 
-- [Repository](https://github.com/msudesigncpr/libcolonyfind)
-- [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html)
+| [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html) | [Repository](https://github.com/msudesigncpr/libcolonyfind) |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 
 ### libmotorcontrol
 > Methods to interface with the CMMO-ST drive controllers
 
-- [Repository](https://github.com/msudesigncpr/libmotorctrl)
-- [Docs](https://msudesigncpr.github.io/libmotorctrl/libmotorctrl/drive_manager.html)
+| [Repository](https://github.com/msudesigncpr/libmotorctrl) | [Docs](https://msudesigncpr.github.io/libmotorctrl/libmotorctrl/drive_manager.html) |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+
 
 ### datasheets
 > Relevant datasheets
 
-- [Repository](https://github.com/msudesigncpr/datasheets)
+| [Repository](https://github.com/msudesigncpr/datasheets) |
+| -------------------------------------------------------- |
+
 
 ## Slated for obliteration
-[old cv](https://github.com/msudesigncpr/computer_vision)
-[old gui](https://github.com/msudesigncpr/GUI)
-[old proc ctrl](https://github.com/msudesigncpr/control_software)
-[motor test](https://github.com/msudesigncpr/motor_control_test)
+
+| [motor test](https://github.com/msudesigncpr/motor_control_test) | [old proc ctrl](https://github.com/msudesigncpr/control_software) | [old cv](https://github.com/msudesigncpr/computer_vision) | [old gui](https://github.com/msudesigncpr/GUI) |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------- |
+
