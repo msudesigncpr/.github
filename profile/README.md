@@ -24,7 +24,7 @@
 ### libcolonyfind
 > Image processing to determine colony locations
 
-| [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html) | [Repository](https://github.com/msudesigncpr/libcolonyfind) |
+| [Repository](https://github.com/msudesigncpr/libcolonyfind) | [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html) |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 
 ### libmotorcontrol
