@@ -24,8 +24,8 @@
 ### libcolonyfind
 > Image processing to determine colony locations
 
-| [Repository](https://github.com/msudesigncpr/libcolonyfind) | [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html) |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Repository](https://github.com/msudesigncpr/libcolonyfind) | [Wiki](https://github.com/msudesigncpr/libcolonyfind/wiki) | [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html) |
+| ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 ### libmotorcontrol
 > Methods to interface with the CMMO-ST drive controllers
