@@ -24,8 +24,8 @@
 ### libcolonyfind
 > Image processing to determine colony locations
 
-| [Repository](https://github.com/msudesigncpr/libcolonyfind) | [Wiki](https://github.com/msudesigncpr/libcolonyfind/wiki) | [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html) |
-| ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [Repository](https://github.com/msudesigncpr/libcolonyfind) | [Docs](https://msudesigncpr.github.io/libcolonyfind/libcolonyfind/colony_finder.html) |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 ### libmotorcontrol
 > Methods to interface with the CMMO-ST drive controllers
@@ -40,9 +40,4 @@
 | [Repository](https://github.com/msudesigncpr/datasheets) |
 | -------------------------------------------------------- |
 
-
-## Slated for obliteration
-
-| [motor test](https://github.com/msudesigncpr/motor_control_test) | [old proc ctrl](https://github.com/msudesigncpr/control_software) | [old cv](https://github.com/msudesigncpr/computer_vision) | [old gui](https://github.com/msudesigncpr/GUI) |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------- |
 
